@@ -1,9 +1,9 @@
 from classes.game import person, bcolors
 
 
-magic =[{"name": "Fire", "cost": 1000, "dmg": 60},
-        {"name": "Thunder", "cost": 1200, "dmg": 80},
-        {"name": "Blizzard", "cost": 1000, "dmg": 60},]
+magic =[{"name": "Fire", "cost": 10, "dmg": 60},
+        {"name": "Thunder", "cost": 12, "dmg": 80},
+        {"name": "Blizzard", "cost": 10, "dmg": 60},]
 
 
 player = person(460, 65, 60, 60, magic)

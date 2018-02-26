@@ -7,7 +7,7 @@ magic =[{"name": "Fire", "cost": 10, "dmg": 90},
 
 
 player = person(680, 65, 60, 85, magic)
-enemy = person(1200, 65, 45, 25, magic)
+enemy = person(1200, 65, 45, 35, magic)
 
 running =True
 i = 0

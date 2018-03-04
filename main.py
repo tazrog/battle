@@ -6,7 +6,7 @@ magic =[{"name": "Fire", "cost": 10, "dmg": 90},
         {"name": "Blizzard", "cost": 10, "dmg": 60},]
 
 
-player = person(680, 65, 60, 165, magic)
+player = person(680, 65, 60, 65, magic)
 enemy = person(1200, 65, 45, 35, magic)
 
 running =True

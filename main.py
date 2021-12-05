@@ -1,3 +1,4 @@
+#Created by tazrog
 from classes.game import person, bcolors
 
 
